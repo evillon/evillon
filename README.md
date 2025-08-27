@@ -61,10 +61,7 @@ cd {{NOMBRE_DEL_PROYECTO}}
 
 # Instalar dependencias
 npm install
+
 ```
 
 ---
-
-
-´´ Reproducir la función
-npm run dev
