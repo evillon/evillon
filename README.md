@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Una producción original de <b>Edinson Villon</b></i><br>
-  <i>📅 Estreno en GitHub: 2025-08-2025</i>
+  <i>📅 Estreno en GitHub: 2025</i>
 </p>
 
 ---
